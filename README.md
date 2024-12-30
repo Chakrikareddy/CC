@@ -1,1 +1,1 @@
-# CC
+# Competitive Coding 
